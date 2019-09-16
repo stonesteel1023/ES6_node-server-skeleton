@@ -1,7 +1,7 @@
 # ES6_node-server-skeleton
 ES6 version in javascript by babel
 
-## .bablerc
+## .babelrc
 ```
 {
     "presets":["@babel/preset-env"]
