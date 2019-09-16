@@ -1,17 +1,10 @@
 {
   "name": "mahocast",
   "version": "1.0.0",
-  "description": "Cloning Youtube with JS and Node",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/stonesteel1023/mahocast.git"
-  },
   "keywords": [
     "mahocast"
   ],
-  "author": "Choi seokcheol",
-  "homepage": "https://github.com/stonesteel1023/mahocast#readme",
   "dependencies": {
     "@babel/core": "^7.6.0",
     "@babel/node": "^7.6.1",
