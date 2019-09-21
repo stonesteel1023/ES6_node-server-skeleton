@@ -1,7 +1,13 @@
 # ES6_node-server-skeleton
 ES6 version in javascript by babel
 
-## .babelrc
+## npm install command
+- npm install @babel/node
+- npm install @babel/core
+- npm install @babel/preset-env
+
+
+## setting in .babelrc
 ```
 {
     "presets":["@babel/preset-env"]
