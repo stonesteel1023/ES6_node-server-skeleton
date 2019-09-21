@@ -1,4 +1,4 @@
-# ES6_node-server-skeleton
+# ES6_node-server-skeleton (attached example files for window version)
 ES6 version in javascript by babel
 
 ## npm install command
